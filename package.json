@@ -5,6 +5,14 @@
     "main": "build/index.js",
     "type": "module",
     "author": "Demetrius",
+    "homepage": "https://github.com/GekasD/get5config",
+  	"repository": {
+  	  	"type": "git",
+  	  	"url": "git+https://github.com/GekasD/get5config.git"
+  	},
+  	"bugs": {
+  	  	"url": "https://github.com/GekasD/get5config/issues"
+  	},
     "license": "MIT",
     "files": ["build/*"],
 	"scripts": {
