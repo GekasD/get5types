@@ -1,7 +1,7 @@
 {
     "name": "get5types",
     "description": "TypeScript type definitions for get5's various data structures.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "build/index.js",
     "type": "module",
     "author": "Demetrius",
