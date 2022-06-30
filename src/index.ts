@@ -31,7 +31,7 @@ export interface Match {
     min_players_to_ready?: number;
     min_spectators_to_ready?: number;
     favored_percentage_team1?: number;
-    favored_percebtage_text?: string;
+    favored_percentage_text?: string;
     cvars?: AnyStringValueObject;
     match_title?: string;
 
